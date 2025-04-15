@@ -1,29 +1,62 @@
- •	Frontend + Backend + Database + SEO
-•	Full Stack Web Application, Restful API's, or any Web Programming.
-•	Code i.e. easily customizable and understandable.
-•	Developing any Small Scale or Large Scale Web App.
-•	Worked on many websites. Now it's your turn, Let's develop your Idea!
-Skills:
-•	React.JS
-•	Node.JS
-•	Restful API development
-•	API integrations and Automation
-•	Express.JS
-•       SEO Specialist
-•       Keyword Research
-•       Google Analytics
-•       Link Building
-•	MongoDB
-•	SQL Databases
-•	JavaScript
-•	HTML5 & CSS3
-•	Bootstrap
-•      Flutter
-•	Dart
-•       Swift
+# Muhammad Anas
+
+**Full Stack Developer | MERN Stack Expert | API Integrations **  
+*Building scalable web applications and backend systems with performance, clarity, and purpose.*
+
+---
+
+## 👨‍💻 About Me
+
+I’m a full stack web developer with 5+ years of hands-on experience in crafting custom web solutions. Whether it's a small business site, a large-scale SaaS application, or API integration for mobile apps, I deliver clean, scalable, and maintainable code with a focus on performance and SEO.
+
+My core strength lies in translating ideas into real-world digital solutions that are fast, secure, and user-friendly.
+
+---
+
+## 🛠️ Services I Provide
+
+- Frontend & Backend Development  
+- Custom RESTful APIs & Integration  
+- Database Architecture & Query Optimization
+- Web App Performance Tuning  
+- Clean Code & Modular Architecture  
+- Scalable Web Apps (Monolith or Microservices)  
+- Mobile App Backend Development (React Native, Expo)
+
+---
+
+## 💼 Tech Stack Expertise
+
+**Frontend:**  
+React.js, HTML5, CSS3, JavaScript (ES6+), Bootstrap 5, TailwindCSS, React Native
+
+**Backend & API:**  
+Node.js, Express.js, RESTful APIs, Authentication, Middleware
+
+**Databases:**  
+MongoDB, MySQL, Firebase, SQL Databases
+
+**Dev & Tools:**  
+Git, GitHub, Postman, Figma (frontend to code), VS Code.
+
+**Mobile & Cross-Platform:**  
+React Native (Expo), REST API Integration
+
+## 🔍 What Sets Me Apart?
+
+- 100% custom-coded solutions, not just templates  
+- Developer + SEO strategist — performance and visibility together  
+- Clear, timely communication  
+- Focus on clean UX & UI structures  
+- Project delivery with future scalability in mind
 
 
-<!---
-Anas7232/Anas7232 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📫 Connect With Me
+
+- LinkedIn: (www.linkedin.com/in/muhammad-anas-83596019a)
+- Email: anasali7232@gmail.com
+
+---
+
+> *"Great software is built when code meets clarity, and vision meets execution."*  
+> — Muhammad Anas
