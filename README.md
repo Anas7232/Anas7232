@@ -45,7 +45,7 @@ React Native (Expo), REST API Integration
 ## 🔍 What Sets Me Apart?
 
 - 100% custom-coded solutions, not just templates  
-- Developer + SEO strategist — performance and visibility together  
+- Developer + SEO strategist performance and visibility together  
 - Clear, timely communication  
 - Focus on clean UX & UI structures  
 - Project delivery with future scalability in mind
