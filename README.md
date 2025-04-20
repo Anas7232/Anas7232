@@ -1,13 +1,13 @@
 # Muhammad Anas
 
-**Full Stack Developer | MERN Stack Expert | API Integrations **  
+**Full Stack Developer | MERN Stack Expert | API Integrations | Restful API **  
 *Building scalable web applications and backend systems with performance, clarity, and purpose.*
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a full stack web developer with 5+ years of hands-on experience in crafting custom web solutions. Whether it's a small business site, a large-scale SaaS application, or API integration for mobile apps, I deliver clean, scalable, and maintainable code with a focus on performance and SEO.
+I’m a full stack web developer with 5+ years of hands-on experience in crafting custom web solutions. Whether it's a small business site, a large-scale SaaS application, or API integration , I deliver clean, scalable, and maintainable code with a focus on performance and SEO.
 
 My core strength lies in translating ideas into real-world digital solutions that are fast, secure, and user-friendly.
 
