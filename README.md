@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a full stack web developer with 5+ years of hands-on experience in crafting custom web solutions. Whether it's a small business site, a large-scale SaaS application, or API integration , I deliver clean, scalable, and maintainable code with a focus on performance and SEO.
+I'm Muhammad Anas, a highly experienced Full-Stack Developer with over 5+ years of proven success delivering robust, scalable, and performance-driven solutions using the MERN Stack (MongoDB, Express, React, Node.js) and React Native for cross-platform mobile development. I specialize in building modern web and mobile applications that are not only beautifully designed but also strategically engineered to deliver tangible business results faster load times, seamless user experiences, and high conversion rates. I help startups, small businesses, and enterprises build modern, scalable, and high-performance web and mobile applications that don’t just look good they deliver measurable business results.
 
 My core strength lies in translating ideas into real-world digital solutions that are fast, secure, and user-friendly.
 
